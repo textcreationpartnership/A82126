@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration of the Christian-free-born subjects of the once flourishing kingdom of England. Making out the principles relating both to their spiritual and civil liberties, which they conceive they are bound both in conscience and honour, to vindicate and maintain with sobriety and courage, each one in his proper place and sphere: against all usurpation. To which is adjoyned the Petition of Right, the Oath of Allegiance, the Oath of Supremacy, the Protestation, and the Solemn Vow and Covenant: by perusal of which, the nation may see the necessity of repentance for perjury, and amendment of errours.</title>
+         </titleStmt>
+         <extent>Approx. 54 KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82126</idno><idno type="EEBO-CITATION">99866819</idno>
+  <idno type="VID">168676</idno>
+  <idno type="EEBO-PROQUEST">2248497699</idno>
+  
+            <idno type="STC">Wing D645</idno>
+            <idno type="STC">Thomason E993_30</idno>
+            <idno type="STC">ESTC R207790</idno>
+            <idno type="PROQUEST">99866819</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99866819e"/>
+            <note>(EEBO-TCP ; phase 2, no. A82126)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168676)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 148:E993[30])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration of the Christian-free-born subjects of the once flourishing kingdom of England. Making out the principles relating both to their spiritual and civil liberties, which they conceive they are bound both in conscience and honour, to vindicate and maintain with sobriety and courage, each one in his proper place and sphere: against all usurpation. To which is adjoyned the Petition of Right, the Oath of Allegiance, the Oath of Supremacy, the Protestation, and the Solemn Vow and Covenant: by perusal of which, the nation may see the necessity of repentance for perjury, and amendment of errours.</title>
+               </titleStmt>
+               <extent>[2], 28 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the year 1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+                  <note>Place of publication from Wing.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2015-01 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2015-01 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:168676:1"/>
+            <p>A DECLARATION OF THE CHRISTIAN-FREE-BORN Subjects of the once Flourishing Kingdom OF ENGLAND.</p>
+            <p>MAKING Out the PRINCIPLES relating both to their Spiri<g ref="char:EOLhyphen"/>tual and Civil LIBERTIES, which they conceive they are bound both in Conscience and Honour, to vindicate and maintain with Sobriety and Cou<g ref="char:EOLhyphen"/>rage, each one in his proper place and Sphere: against all USURPATION.</p>
+            <p>To which is adjoyned the Petition of Right, The Oath of Allegiance, The Oath of Supremacy, The Protestation, and the Solemn Vow and Covenant: by perusal of which, the Nation may see the necessity of repentance for Perjury, and amendment of Errours.</p>
+            <q>
+               <bibl>
+                  <hi>1 COR. 9.1.</hi>
+               </bibl>
+               <p>Am I not A free man?</p>
+            </q>
+            <p>Printed in the Year 1659.</p>
+         </div>
+      </front>
+      <body>
+         <div type="declaration">
+            <pb facs="tcp:168676:2"/>
+            <pb facs="tcp:168676:2"/>
+            <head>A DECLARATION OF The FREE-BORN Subjects of ENGLAND.</head>
+            <p>
+               <hi>BEing soberly and sadly sensible of the miseries at present incumbent, and in all likelihood more a<g ref="char:EOLhyphen"/>bundantly about to be heaped on, our wasted, di<g ref="char:EOLhyphen"/>stracted, confused Nation; We cannot but give the World to understand that there are those in it, that have re<g ref="char:EOLhyphen"/>mained sound in their principles, or at least have retri<g ref="char:EOLhyphen"/>ved them, in a Wood and Wilderness of amusing distur<g ref="char:EOLhyphen"/>bancts. Own we must by our own sad experience, that Mundane success doth not alwaies wait upon the best Cause: and withall, that the best Causes in all probabili<g ref="char:EOLhyphen"/>ty may have the best success, if that the sins and miscarri<g ref="char:EOLhyphen"/>ages of those that have the management of them, do not re<g ref="char:EOLhyphen"/>tard or thrust away mercies. We cannot therefore but in humility acknowledge that our personal offences have mudded the fountain and current of blessings, both in or<g ref="char:EOLhyphen"/>derly Church-Government and State-liberties. This we own with our hearts, and begging Gods mercy and forgi<g ref="char:EOLhyphen"/>veness, do resolve to alter the course of our former con<g ref="char:EOLhyphen"/>versations. But yet, (as hath been deserved by us) if God shall suffer us only to see in our hopes, and not to come to the desired</hi> Canaan <hi>of rest and settlement before we die, we cannot but leave as a Legacy to succeeding gene<g ref="char:EOLhyphen"/>rations, this</hi> Manifesto.</p>
+            <pb n="2" facs="tcp:168676:3"/>
+            <p> WE Declare then, that we are Christian-free-born-men, and venture to own that name, by being regenerate and born Members of Christ his Church, and of this Commonwealth.</p>
+            <p>As we are Members of Christ's Church, we are faithful<g ref="char:EOLhyphen"/>ly to endeavour the vindication and maintenance of the honour and glory of God.</p>
+            <p>We count all enemies to the honour of God, that are adversaries to his truth, and the power of godliness.</p>
+            <p>We reckon all Atheists, Jews, Turks, and Hereticks, who pertinaciously deny the principles of our Religion, and Salvation by Jesus Christ, enemies to the truth of God.</p>
+            <p>We deem and account the Principles of our Religion, and of Salvation by Jesus Christ, to be the true and saving evidence of the Spirit of God, held forth in his Word, and Summarily comprehended in the Apostles Creed, <hi>viz. I believe in God,</hi> &amp;c.</p>
+            <p>Our judgement as touching superstructure, and opini<g ref="char:EOLhyphen"/>ons in less weighty things, not clearly determined (to eve<g ref="char:EOLhyphen"/>ry mans apprehension) by the word of God, is, That in those things we are to be wise unto sobriety, and to in<g ref="char:EOLhyphen"/>dulge to every mans infirmity, and the measure of faith which is given them of God: humbly endeavouring, and waiting with fear and reverence, the farther revelations of his saving Spirit, which is never wanting in the necessary means of their Salvation by Jesus Christ.</p>
+            <p>We repute and account all prophane and loose livers, all Sacrilegious persons, Schismatiques and Hypocrites, (who all profess, but do not act according to the Spirit) adversa<g ref="char:EOLhyphen"/>ries to the power of godliness.</p>
+            <p>We give the name of [prophane and loose livers] to all such that enslave their souls to the dominion of sin, and their members to the obedience of its filthy lusts.</p>
+            <p>We intend by [Sacrilegious persons] not only those that would purchase the gifts of the holy Ghost, but those
+<pb n="3" facs="tcp:168676:3"/>also who unwarrantably, and not duly called, by being put apart by prayer and imposition of hands, do intrude into the Ministery; and invade or withhold from their proper intentions, the rights and interests which God hath reser<g ref="char:EOLhyphen"/>ved, or our progenitors have consecrated to the honour and service of his holy Name.</p>
+            <p>We do not count them [Schismatiques] who out of a tender Conscience, do scruple some indifferencies ei<g ref="char:EOLhyphen"/>ther in Worship or Discipline established in the Church, as long as they do endeavour to preserve, with their Christi<g ref="char:EOLhyphen"/>an liberties, the unity of the Spirit in the bond of peace.</p>
+            <p>This we account [acting according to the Spirit] (not the suddain doing of any thing, which looks like Re<g ref="char:EOLhyphen"/>ligion, which may be the delusive motion of an erring phansie) but endeavours to obey those precepts which in<g ref="char:EOLhyphen"/>joyn the transforming our selves into the image of Christ, by the renewing of our mindes, and to present our bodies a living sacrifice, holy and acceptable unto God, in our reasonable service, according to his will.</p>
+            <p>We hold that God hath been pleased to reveal un<g ref="char:EOLhyphen"/>to us his will, as we are men, by the light of Nature; as we are his servants, by <hi>Moses</hi> in the ten Commandments; as we are his adopted children, in the Evangelical pre<g ref="char:EOLhyphen"/>cepts of an higher perfection.</p>
+            <p>By the ten Commandments, we mean those recorded <hi>Exod.</hi> 20. <hi>viz. Thou shalt have no other gods before me,</hi> &amp;c.</p>
+            <p>By Evangelical precepts of an higher perfection, we mean all those duties of free love, mercy, meekness, humility, self-denial, taking up the cross, and patience un<g ref="char:EOLhyphen"/>der it, <hi>&amp;c.</hi> In all which our Saviour hath set us a copy to write after in his exemplary life; and which are not enjoy<g ref="char:EOLhyphen"/>ned us in the letter of the Law, but especially recommen<g ref="char:EOLhyphen"/>ded to us, in the Gospel of our Salvation by Jesus Christ.</p>
+            <p>The means by which we apprehend, that we are bound to vindicate and maintain the honour of God, a<g ref="char:EOLhyphen"/>gainst the adversaries of his truth, and the power of godli<g ref="char:EOLhyphen"/>ness, are soundness of Doctrine, Discipline, Prayer, and the
+<pb n="4" facs="tcp:168676:4"/>Sacrament, all dispensed in the spirit of meekness and love.</p>
+            <p>By soundness of Doctrine we mean those evidences, and sacred truths held forth in the word of God, which have generally been received by the sober and under<g ref="char:EOLhyphen"/>standing people of God.</p>
+            <p>When the adversaries to Gods truth, will not hear<g ref="char:EOLhyphen"/>ken to sound Doctrine which is according to godli<g ref="char:EOLhyphen"/>ness, they are after that course of admonition, which the Gospel plainly directs in, to be separated from all Saint-fel<g ref="char:EOLhyphen"/>lowship, by the power and discipline of the Church.</p>
+            <p>Yet they are not to be left in that desperate con<g ref="char:EOLhyphen"/>dion; but we are by prayer to seek God for their conver<g ref="char:EOLhyphen"/>sion.</p>
+            <p>As for prayer, we are according to the Apostles di<g ref="char:EOLhyphen"/>rection to pray alwaies, with all prayer and supplication, in the Spirit (which we do not interpret, hasty, confused and rash eruptions, of whatever comes first into the mouth, but) with reverence, and a due pre-deliberation, out of a sense of our present wants. But the Form pre<g ref="char:EOLhyphen"/>scribed us by our Lord Jesus Christ, particularly intended and applyed to all occurrences, suiting all our lawful de<g ref="char:EOLhyphen"/>sires, beyond the excellency and power of our own expres<g ref="char:EOLhyphen"/>sions, is, <hi>Our Father which an in heaven,</hi> &amp;c.</p>
+            <p>The SACRAMENTS are not to be admini<g ref="char:EOLhyphen"/>stred to the enemies of Gods truth, and the power of godliness.</p>
+            <p>The SACRAMENTS do serve to vindicate the honour of God, and power of godliness, by propa<g ref="char:EOLhyphen"/>gating and strengthening the members of Jesus Christ.</p>
+            <p>The SACRAMENT that propagates the mem<g ref="char:EOLhyphen"/>bers of our Lord Jesus Christ, is the Sacrament of BAPTISM through Water and the Spirit.</p>
+            <p>In the ordinary dispensation of the mercies of God, none can become members of our Lord Jesus Christ, but such which are Baptized: whereof the seed of the faithful (being partakers of the Covenant) are all of them capable.</p>
+            <pb n="5" facs="tcp:168676:4"/>
+            <p> By the SACRAMENT of the Lords SUPPER, we are strengthened to vindicate Gods Honour and the Power of godliness; our decays of grace being there<g ref="char:EOLhyphen"/>by repaired, and the renewings of our spirit bettered, if we worthily communicate of his body and bloud in that blessed Ordinance.</p>
+            <p>If these means, <hi>viz.</hi> Soundness of Doctrine, Disci<g ref="char:EOLhyphen"/>pline, Prayer, and the Sacraments, used in the spirit of meekness and love, prevail not for the vindicating and maintaining the honour of God, and the power of godli<g ref="char:EOLhyphen"/>ness, a Christian may not take Arms, barely upon that Ac<g ref="char:EOLhyphen"/>count; for the weapons of our warfare are not Carnal: But as a minister of Justice, and in assistance thereof, he may and ought, being especially called thereunto, and if the Law of the Nation enable him thereunto, that is to say, when the errours and practices of the enemies of Christ, subvert or disquiet the peace of the civil Govern<g ref="char:EOLhyphen"/>ment.</p>
+            <p>Summarily, to conclude; as we are members of Christ's Church, we conceive it our duty faithfully to endeavour, by all spiritual means, in meekness and love, to vindicate and maintain Gods truth against all Atheists, Jews, Turks, Heretiques; and the power of godliness, against all pro<g ref="char:EOLhyphen"/>phane and loose livers, Sacrilegious persons, Schismatiques and Hypocrites.</p>
+            <p>And this we pray God to give us his grace to continue in, and pursue in our proper capacities and callings, with an holy courage and resolution, to our lives end.</p>
+            <p>
+               <hi>AMEN, AMEN.</hi>
+            </p>
+            <p>WE farther as FREE-BORN English-MEN, de<g ref="char:EOLhyphen"/>clare our PRINCIPLES in relation to our LIBERTIES and IMMUNITIES, to which we are intitled to by BIRTH, as we are members of the Commonwealth of <hi>ENGLAND;</hi> As followeth.</p>
+            <p>As we are members of this Commonwealth, it is our duties, in our place and station, to endeavour the vin<g ref="char:EOLhyphen"/>dication
+<pb n="6" facs="tcp:168676:5"/>and maintenance of the common Rights and Li<g ref="char:EOLhyphen"/>berties of the Free-men of <hi>England.</hi>
+            </p>
+            <p>We do understand by the common Rights and Liber<g ref="char:EOLhyphen"/>ties of the Free-men of <hi>England,</hi> in general, the proprie<g ref="char:EOLhyphen"/>ty and disposing power, which every member of this Nati<g ref="char:EOLhyphen"/>on hath by Law of the Land, in any of his proper Interests, whether Temporal or spiritual; however they were obtain<g ref="char:EOLhyphen"/>ed, whether by Grant or Common Usage; not Contrary to the Law of Nature, or the will of God.</p>
+            <p>But more particularly, we do account the Common Right and Liberties of the Free-men of <hi>England,</hi> the same which were granted us by the Grand Charter, and afterwards, were confirmed to us by more than thirty se<g ref="char:EOLhyphen"/>veral Acts of Parliament, and in the third of King <hi>Charles</hi> were recited, fully cleared, and ratified, to the satisfaction of desires, in that which is commonly called the <hi>Petition of Right,</hi> hereunto subjoyned.</p>
+            <p>We hold it as necessary for every Free-MAN of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> to know his Common Rights, as for every Christian to know the Articles of his Faith.</p>
+            <p>All Nation have their several Rights and Freedoms: but none so truly free as the people of <hi>England,</hi> if their Fundamental Laws be kept inviolate.</p>
+            <p>The Excellency of the Rights and Freedoms of the Peo<g ref="char:EOLhyphen"/>ple of <hi>England,</hi> consist in six things especially.</p>
+            <p>First, That we cannot be disseized or charged in our Free-holds, Goods or Franchises, but by Law, or our own consent, in a free and lawful Parliament, and that only for the publique good; nor destroyed or straitened in the liberties of our persons, but by the lawful tryal of our Peers, or by the Law of this Land.</p>
+            <p>Secondly, That no Law is of force with us, but such as by our own allowance hath been, or shall be established by the Soveraign Authority of the Nation; or otherwise hath een received by the constant Usage of the People.</p>
+            <p>Thirdly, That no judgement Concludes us, but such which is passed before Magistrates of our own Nation,
+<pb n="7" facs="tcp:168676:5"/>ordinarily called, duly Authorized, and Legally sworne, to do us justice according to those Laws.</p>
+            <p>Fourthly, That all our proceedings and tryals in Law, are to be publique, and to our greatest ease; that is to say, in the open view of the Countrey, Hun<g ref="char:EOLhyphen"/>dred, Society or Corporation, where the cause of Action is supposed to be given.</p>
+            <p>Fifthly, That every one of us in matters of Crime and Interest, is triable in the issue of our pleadings only <hi>per pares,</hi> his Fellows and Neighbouthood; who are to try one the other, both in Law and Fact, upon their Corporal Oathes: from which form of trial, the King himself (in point of right) cannot plead exemption.</p>
+            <p>Sixthly, That Justice, according to that Law and form of tryal, cannot be sold, delayed or denyed to any one. All which particulars are confirmed unto us principally, in the Grand Charter, or <hi>Magna Charta,</hi> and the Petition of Right.</p>
+            <p>All the ancient Rights and Liberties of this Nation, that are confirmed in the Petition of Right, are not pre<g ref="char:EOLhyphen"/>cisely and particularly mentioned in that Petition, but only those common ones relating to civil Government, which were settled on us, (not without some reluctancy) by several Princes in Parliament, who most cautiously re<g ref="char:EOLhyphen"/>served several things in the nature of Prerogative Royal, inseparable from the Crown, even whatsoever pre-emi<g ref="char:EOLhyphen"/>nencies of Rule, profits, and dependencies that might make most to the honour, safety, and security of their So<g ref="char:EOLhyphen"/>vereign Persons and Government: Which to that end we have since confirmed to them by our frequent Con<g ref="char:EOLhyphen"/>ventions, Institution of several Jurisdictions for their support and benefit, and by their peaceable enjoyment through many generations. Of this also, the late King was very jealous and circumspect; In the answer he gave to the Petition of Right, granting our desires with a <hi>Salvo</hi> to his Prerogative.</p>
+            <p>If our Princes reserved only what was necessary to their
+<pb n="8" facs="tcp:168676:6"/>pre-eminency, and the security of their Government, the Publique Interest cannot be advanced out of the ruines of that establishment. What was a trust of State in their politique capacity, becomes a personal propriety in the hands of Subjects. In the defence and upholding of which, they are to lay out themselves, as much as for the defence of any Freedom or Immunity whatsoever: The opulency of the Princes trust, being the readiest and main security of the publique welfare: For whilest the people might enjoy the Law and Liberties of our Nation, Princes had no other means to support their own Soveraignty, and the publique safety, but that common stock, which had advanced it self, by the Art, providence, thrift and devoti<g ref="char:EOLhyphen"/>on of several ages, to an invaluable patrimony both in Church and State; indifferently answerable to every mans merits, and the publique necessities of the Common<g ref="char:EOLhyphen"/>weal. But how suddainly 'tis wasted (being dissipated into private hands) this age hath well taught us; and after-ages will tell us also, what extraordinary indulgencies the people may expect from their new-created Land-Lords: From whom, and with how great difficulty the same is to be repaired; and till then, on whose shoulders the heavy burthen of our protection (the grand and stand<g ref="char:EOLhyphen"/>ing treasury being exhausted) will necessarily be imposed, is easie to be conjectured. The fingers of our new up<g ref="char:EOLhyphen"/>start Lords, and of an empty new-rising State, may possi<g ref="char:EOLhyphen"/>bly prove more weighty to a tame and tyred people, then the Loyns of a Free-born Heir, and of an ancient Monarchy, satisfied if not glutted with his own suffi<g ref="char:EOLhyphen"/>ciency.</p>
+            <p>We conceive the People may not take up Arms, to wrest those reserved Rights of pre-eminency and So<g ref="char:EOLhyphen"/>veraignty out of the Power of the Crown. For that were not only to unbottom all Parliamentary Conventi<g ref="char:EOLhyphen"/>ons, but more particularly to unravel the seams of all Government; a way to open a wide gap unto all per<g ref="char:EOLhyphen"/>fidiousness and Rebellion, and to unsettle the security
+<pb n="9" facs="tcp:168676:6"/>of all future establishments in what kinde soever; which cannot be lawfully raised but out of the Publique Inte<g ref="char:EOLhyphen"/>rest, nor secured but upon the same Principles of Rights and duty. And though we may suppose and grant, that Arms might be taken up for the aforementioned end, yet considering the vast expence of treasure, and of Christian bloud, the manifold miseries and ruines of innumerable and most worthy families; The disquiets, cares, tediousness of most considerable issues; the weak<g ref="char:EOLhyphen"/>ning of a settled Government, to a possibility of usurpa<g ref="char:EOLhyphen"/>tion from foraign invasions (all which do necessarily (as we finde by sad experience) attend designs of so high a nature) our present age hath no cause to judge that it was fit an expedient; Nor (however it prove successful though to the highest of rash and inconsiderate mens desires) can it be any way advantagious (so much as to the reparations of it's proper detriments) to many suc<g ref="char:EOLhyphen"/>ceeding generations.</p>
+            <p>That which induced this Nation to insist rather on the settlement of the common interests expressed in the Pe<g ref="char:EOLhyphen"/>tition of Right, then on those others, which they before had confirmed to the advantage of the Crown, was the very dictate of Nature, and the common Genius of the people, as more proper and generally necessary to their preservation and well-being in a civil society: who (unable without those to live as free-men under Go<g ref="char:EOLhyphen"/>vernment) did thereupon settle their Soveraign Power in a supreme Magistrate; (above a thousand years since, and vowed him their Allegiance) to preserve those re<g ref="char:EOLhyphen"/>served Rights, to them and their posterities, as their in<g ref="char:EOLhyphen"/>violable birth-right; and to govern and protect them in their ancient liberties by the common justice of this Na<g ref="char:EOLhyphen"/>tion.</p>
+            <p>We conceive then, that those Laws and Liberties are <hi>de jure</hi> inviolable; not only for that they are the main foundations of this National Government, and the main support of that Soveraignty which is establi<g ref="char:EOLhyphen"/>shed
+<pb n="10" facs="tcp:168676:7"/>over us (intended for their preservation) but also because all the <hi>Norman</hi> Princes (as their principal Pro<g ref="char:EOLhyphen"/>tector) from the first to the last, before ever they were invested with the Regal power over the people, took their Corporal oath (which is therefore stiled the Coro<g ref="char:EOLhyphen"/>nation Oath) to make them their Rule of Government. And generally this whole Nation, (not so long since, as that it should be worn out of the memory) but more especi<g ref="char:EOLhyphen"/>ally the high Court of Parliament, and all Ministers of justice, by thei<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Oath, Office and Trust, stand charged not only in duty and service to their Country; but also by their Protestation, their Solemn Vow and Covenant, To maintain and defend them, to the utmost of their power, life and estate.</p>
+            <p>The Kings and Princes of this Nation have no Au<g ref="char:EOLhyphen"/>thority, that is, no lawful Authority or Power to in<g ref="char:EOLhyphen"/>vade our Rights and Liberties. But main Question may be, Whether they (in compliance with a popular rage) transmitting their Authority to our Representa<g ref="char:EOLhyphen"/>tives, they our Representatives may alter and change at pleasure the fundamental constitution and frame of our National Government.</p>
+            <p>To which Question we answer: That a party that is intrusted, cannot transfer (at least authoritatively &amp; bin<g ref="char:EOLhyphen"/>dingly) any other power then was originally and expresly committed to them. And that, as hath been declared, (in the Kings of this Nation) was limitted by the Com<g ref="char:EOLhyphen"/>mon Laws, and Customs of the People. Nor have we ever yet heard or known, that any of the Kings of this Nation ever granted to any our Representatives, any other power or jurisdiction besides only a liberty, and extent of time, for the transacting and setling the affairs of the Publique, when they really were, or were pre<g ref="char:EOLhyphen"/>tended to be discomposed. But in case any of our Kings had wholly transmitted the power that was in them, to the body of our Representatives, we cannot imagine that body to have been enabled by that joynt
+<pb n="11" facs="tcp:168676:7"/>Authority, beyond the respective trusts, which was in both parties as they stood divided; and that was ever bounded by the Common Rights of the People, and the Funda<g ref="char:EOLhyphen"/>mental Rules of our established Government. — And when ever alteration of that Government was attemp<g ref="char:EOLhyphen"/>ted, it was still clearly renounced by the Publique dis<g ref="char:EOLhyphen"/>claimer, or dislike of the whole body of the Nation. And the same now would evidently appear, if the Yea's and No's of the whole Nation could impartially be ta<g ref="char:EOLhyphen"/>ken (secluding all by-ends of self-advancement, and secu<g ref="char:EOLhyphen"/>rity to persons greedy and too much engaged) that there is hardly one man of twenty, that in heart did desire, or as yet can currantly, without mal-contentedness, brook the several changes of our anciently established Government.</p>
+            <p>We farther declare, that in whatsoever sence a Par<g ref="char:EOLhyphen"/>liament be taken, whether in the most ancient, for the King and his great Council, the Lords spiritual and tem<g ref="char:EOLhyphen"/>poral (for they constituted a Parliament before <hi>Anno</hi> 9. <hi>H.</hi> 3. to whom the House of Commons was admit<g ref="char:EOLhyphen"/>ted as a Grand Jury, to represent the grievances and desires of the People,) or in the Modern, for the King, and the two Houses of Lords and Commons; or, as it was not long since, for the House of Commons alone; or as it is, for a third part of them; or as equivalently it may be, for a Council of Army-Officers. They never had nor have power (that is, Authoritative) utterly to abolish, alter or abridge, the Fundamental Laws and Liberties of the Nation. To assert the contrary, were most ridi<g ref="char:EOLhyphen"/>culously to render us free to all others, and slaves to our own Parliaments, whom we entrusted chiefly to assert, defend, and preserve our Liberties. Nor is it imaginable, were ever intended to invest them with Power and Office (in restraint of Regal and popular inroads) by a perfidious combination to betray us and our Poste<g ref="char:EOLhyphen"/>rity to an everlasting bondage.</p>
+            <p>If the necessity of the Publique welfare shall press hard, there may be, we confess (upon some special emer<g ref="char:EOLhyphen"/>gencies,)
+<pb n="12" facs="tcp:168676:8"/>occasion to invade the known interest and pro<g ref="char:EOLhyphen"/>priety of some private persons, for the attainment and preservation of a publique good (as, none accuse such either of Felony or Trespass, that pull down an house, to prevent a fire from burning down an whole Town or Street.) Wherein Parliaments have frequently made use of their Power, for some Publique advantages, but with much tenderness and respect to the parties therein con<g ref="char:EOLhyphen"/>cerned, and the preservation of our common Rights. But that the general invasion of the Publique interests, should become at any time a necessary means to the promoting of the Common welfare (which is to unset<g ref="char:EOLhyphen"/>tle every mans propriety, for the improving of the Com<g ref="char:EOLhyphen"/>mon Rights) exceeds our Apprehension.</p>
+            <p>The immunities of this Nation cannot indeed be vi<g ref="char:EOLhyphen"/>olated, but by the hands of our fellow-Subjects. And because there is nothing else can cheat us out of our best condition, but the hopes of enjoying it under a fuller freedom (which beggerly, discontented, and ambitious spirits, intrusted or countenanced with Power and Au<g ref="char:EOLhyphen"/>thority, craftily present, to the most hazardous assays, attending from commotions their own only possible advantages) and therefore it is that in such cases, we do justly complaint of the Oppression and Tyranny of any Power (appointed for our protection) that may exercise it over us.</p>
+            <p>We do therefore declare all those to be enemies to the Rights and Liberties of the Nation, who by any illegal Power or Authority, already have, or shall here<g ref="char:EOLhyphen"/>after change or invade the Liberties of the People, the Publique welfare of the Kingdom nor requiring them; or that shall imprison or destroy any Free-man of <hi>England</hi> in Cause civil or criminal (whilst justice in an orderly course may be had) without a lawful trial by their Peers, or known Law of the Land, and that publiquely, by or before a Magistrate, ordinarily Authorized and Sworne to do justice according to that Law; or shall
+<pb n="13" facs="tcp:168676:8"/>deny or delay any man the justice of this Nation; or that shall have any influence, intent or privity to any act or design; or that shall not as much as in him lies, impede or discover the same, that may any way prove destru<g ref="char:EOLhyphen"/>ctive or prejudicial to the common welfare, and the Government established by the Fundamental Laws of the Nation.</p>
+            <p>Now in case that the interests of disorderly parties shall on either hand be so disputed and contended for by such which by plain consequence are declared against as enemies to the Common Rights, that the true interests and intrustments of the Nation shall be so far neglected, that thereupon grow confusions, burthens, and oppressi<g ref="char:EOLhyphen"/>ons; we are bound to study the means of removal of those evils.</p>
+            <p>The first we are bound to use, are prayers and tears to God to avert his heavy judgements, inflicted upon a sin<g ref="char:EOLhyphen"/>ful and rebellious generation: Then, so far as at any time we may be called to it, with charity, meekness and hu<g ref="char:EOLhyphen"/>mility, in all endeavours of civility, by daily and incessant remonstrances, and demands, to be preserved in our just and publique Rights; thereby, if possible, to prevail up<g ref="char:EOLhyphen"/>on those that while they invade, or do not preserve our Liberties, are enemies to God, themselves and their Country. But if none of these means prevail, we are all of us with faith and patience to wait upon Gods call, and with a constant resolution, and undaunted zeal, to use all those means that Divine Providence shall hold forth, and season to our hands for our self-preservation. And in such overtures, honest men should shew, that they have derived from their Progenitors an English Gallan<g ref="char:EOLhyphen"/>try, defying all dangers in discharge of duties owing to god, their King, and their Country. Nor can we con<g ref="char:EOLhyphen"/>ceive any man worthy to be accounted the true heir of his fathers honours and immunities, or justly worthy to enjoy the same, who dares not convey them through all difficulties and hazards to succeeding Generations.</p>
+            <pb n="14" facs="tcp:168676:9"/>
+            <p> Therefore while nothing on all hands is less intended then what is pretended, but all affairs are managed by pride, covetousness, erroneous perswasions, or affectation of unlimited greatness, men while they contend for themselves, invading our Liberties, and preying upon our proprieties to maintain their quarrels, lest we be jugled unawares out of our incomparable Liberties into a de<g ref="char:EOLhyphen"/>sperate condition of irreparable Bondage unto all Gene<g ref="char:EOLhyphen"/>rations; We are resolved to catch at all likely means of self-preservation, and to defend with our utmost power the Rights and Liberties of the Nation, against all tray<g ref="char:EOLhyphen"/>terous invasions, by or under pretence of any commands, whether of Conquest-by high hand, Foraign or Dome<g ref="char:EOLhyphen"/>stick, of submissions or engagements by any factious or seditious party voluntary or compelled. And we hear<g ref="char:EOLhyphen"/>tily beg of God, to animate and unite every member of this distracted Nation (with such a publique and no<g ref="char:EOLhyphen"/>ble spirit,) that the welfare of his Country may finde the chiefest place in his thoughts. And in relation there<g ref="char:EOLhyphen"/>unto, we call upon and challenge from every Christian-free-man amongst us, (or elsewhere in like condition) solemnly to engage to God, and seal it if need be with his dearest bloud,</p>
+            <p>That he will faithfully endeavour to vindicate and maintain the honour of God, and the Rights and Liber<g ref="char:EOLhyphen"/>ties of his Country.</p>
+            <div type="letter">
+               <pb n="15" facs="tcp:168676:9"/>
+               <opener>
+                  <salute>Beloved Country-men,</salute>
+               </opener>
+               <p>AFter we have declared our Principles as we are Christians and Free-men, we present you at one view some remarkable things, which dwelt upon by con<g ref="char:EOLhyphen"/>siderate men, will make out our Principles to be both ra<g ref="char:EOLhyphen"/>tional and Conscientious, <hi>viz.</hi> these following things. The Grounds the late King proceeded on in relation to Ship-Mony, the burthen of which the Nation took so tenderly. Yet these sixteen years past, scarce a Month but the Nation have submitted to as great, if not a grea<g ref="char:EOLhyphen"/>ter exhausting of Treasure. Next, the Petition of Right, setting briefly forth those Rights and Freedoms which all are to value, and Factions have pretended, but abominably abused. Next, those publique Oaths the Nation have generally taken, to the wounding of their Consciences, and the dishonour of God and the Nation, through the contradiction of some to the other.</p>
+            </div>
+            <div type="letter">
+               <head>The Kings Letter and Case stated, to the sworn Judges of the Nation, concerning Ship-Mony.</head>
+               <opener>
+                  <signed>Charles Rex.</signed>
+               </opener>
+               <p>TRusty and Well-beloved, we greet you well. Taking into Our Princely consideration, that the honour and safety of this our Realm of <hi>England</hi> (the preservati<g ref="char:EOLhyphen"/>on whereof is only intrusted to our care) was and is now
+<pb n="16" facs="tcp:168676:10"/>more nearly concerned, then in late former times, as well as divers counsels and attempts to take from us the Dominion of the Seas, of which we are sole Lord and rightful Owner and Proprietor, and the loss whereof would be of greatest danger and peril to this Kingdom, and other our Dominions, as many other waies: We, for the avoidance of those and the like dangers, well weighing with our selves, that there the good and safe<g ref="char:EOLhyphen"/>ty of our Kingdom in general is concerned, and the whole Kingdom in danger, there the charge and de<g ref="char:EOLhyphen"/>fence ought to be born by all the Realm in general, Did for preventing so publique a mischief, resolve with our selves to have a Royal Navy provided, that might be of force (by Almighty Gods blessing and assistance) to protect &amp; defend this our Realm, &amp; our Subjects therein, from all such perils and dangers. And for that purpose, we issued forth Writs under our Great Seal, directed to all the Sheriffs of our several Counties o <hi>England</hi> and <hi>Wales,</hi> commanding thereby all our said Subjects, in eve<g ref="char:EOLhyphen"/>ry City, Town and Village, to provide such a number of Ships, well furnished, as might serve for this our Royal purpose, and which might be done with greatest ease and equality that could be: in performance whereof, though generally throughout all the Counties of this Realm, we have found in our Subjects great cheer<g ref="char:EOLhyphen"/>fulness, which we graciously interpret as a testimony of their dutiful affections to us, and to our service, as of a respect they have to the Publique, which well beco<g ref="char:EOLhyphen"/>meth every good Subject: Nevertheless finding that some few, happily out of ignorance what the Laws and Customs of this Realm are, or out of a desire to be eased and freed in their particulars (how general so<g ref="char:EOLhyphen"/>ever the charge ought to be) have not yet paid and con<g ref="char:EOLhyphen"/>tributed the several rates and assesments that were set upon them. And foreseeing in our Princely wisdom, that from hence divers Suits and Actions are not unlike<g ref="char:EOLhyphen"/>ly to be commenced and presented in our several Courts
+<pb n="17" facs="tcp:168676:10"/>at <hi>Westminster:</hi> We, desirous to avoid such inconveni<g ref="char:EOLhyphen"/>encies, and out of our Princely love and affection to all our People; willing to prevent such errours as any of our loving Subjects may happen to run into, have thought fit in a case of this nature, to advise with our Judges, who (we doubt not) are well studied and in<g ref="char:EOLhyphen"/>formed in the Rights of our Soveraignty; And the Tri<g ref="char:EOLhyphen"/>al in our several Courts, by the formalities in pleadings, will require a long protraction. We have thought ex<g ref="char:EOLhyphen"/>pediment by this our Letter directed to you all, to require your judgements in the case as it is set down in the inclosed Paper; Which will not only gain time, but also be of more Authority to over-rule any prejudicate opini<g ref="char:EOLhyphen"/>ons of others in the point.</p>
+               <closer>
+                  <dateline>Given under my Signet at <hi>White-hall,</hi>
+                     <date>2. day of <hi>February,</hi> in the 12. year of out Reign 1636.</date>
+                  </dateline>
+               </closer>
+               <closer>
+                  <salute>
+                     <hi>To our trusty and well beloved, Sir</hi> John Brampston <hi>Knight, Chief Justice of our Bench, Sir</hi> John Finch <hi>Knight, Chief Justice of our Court of</hi> Common-Pleas, <hi>Sir</hi> Hum. Davenport <hi>Chief Baron of our Court of</hi> Exchequer, <hi>and to the rest of the Judges of</hi> Kings Bench, <hi>and</hi> Common Pleas, <hi>and the Barons of our Court of</hi> Exchequer.</salute>
+               </closer>
+            </div>
+            <div type="royal_query">
+               <head>The Kings Question.</head>
+               <opener>
+                  <signed>Car. Rex.</signed>
+               </opener>
+               <p>WHen the good and safety of the Kingdom is in gene<g ref="char:EOLhyphen"/>ral concerned, and the whole Kingdom in danger, whether may not the King by Writs under the Great Seal of <hi>England,</hi> command all the Subjects of this King<g ref="char:EOLhyphen"/>dom, at their charge, to provide and furnish such number of Ships with Men, Victual and Munition, and for such
+<pb n="18" facs="tcp:168676:11"/>time as he shall think fit, for the defence and safe-guard of the Kingdom from such danger and peril, and by Law compel the doing thereof, in case of refusal or refractori<g ref="char:EOLhyphen"/>ness? And whether in such case is not the King sole Judge, both of the danger, and when and how the same is to be prevented and avoided?</p>
+            </div>
+            <div type="reply">
+               <head>The Judges Answer.</head>
+               <opener>
+                  <salute>May it please your most Excellent Majesty.</salute>
+               </opener>
+               <p>WE have, according to your Majesties command, e<g ref="char:EOLhyphen"/>very man by himself, and all of us together, ta<g ref="char:EOLhyphen"/>ken into serious consideration, the Case and Questions signed by your Majesty, and inclosed in your Royal Let<g ref="char:EOLhyphen"/>ter. And we are of opinion, that when the good and safety of the Kingdom in general is concerned, and the whole Kingdom in danger, Your Majesty may by Writ under the Great Seal of <hi>England,</hi> command all the Sub<g ref="char:EOLhyphen"/>jects of this your Kingdom at their charge to provide and furnish such number of Ships, Men, Victual and Muni<g ref="char:EOLhyphen"/>tion, and for such time as your Majesty shall think fit, for the defence and safe-guard of the Kingdom from such damage and peril; and that by Law your Majesty may compel the doing thereof, in case of refusal or refractori<g ref="char:EOLhyphen"/>ness.</p>
+               <p>And we are also of opinion, that in such case your Ma<g ref="char:EOLhyphen"/>jesty is sole judge both of the danger, and when and how the same is to be prevented and avoided.</p>
+               <closer>
+                  <signed>
+                     <list>
+                        <item>
+                           <hi>Joh. Brampston,</hi>
+                        </item>
+                        <item>
+                           <hi>John Denham</hi>
+                        </item>
+                        <item>
+                           <hi>Geo. Crook</hi>
+                        </item>
+                        <item>
+                           <hi>Barkeley</hi>
+                        </item>
+                        <item>
+                           <hi>Joh. Finch.</hi>
+                        </item>
+                        <item>
+                           <hi>Rich. Hutton</hi>
+                        </item>
+                        <item>
+                           <hi>Tho. Trever</hi>
+                        </item>
+                        <item>
+                           <hi>Fra. Crawley</hi>
+                        </item>
+                        <item>
+                           <hi>Hum. Brampstone.</hi>
+                        </item>
+                        <item>
+                           <hi>Will. Jones</hi>
+                        </item>
+                        <item>
+                           <hi>Vernam. Ro</hi>
+                        </item>
+                        <item>
+                           <hi>Rich. Weston</hi>
+                        </item>
+                     </list>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+         <div type="petition">
+            <pb n="19" facs="tcp:168676:11"/>
+            <head>The Petition of Right.</head>
+            <opener>
+               <dateline>
+                  <date>Anno Regis Car. <hi>3.</hi> Mar. <hi>17. 1627.</hi>
+                  </date>
+               </dateline>
+            </opener>
+            <head>The Petition exhibited to his Majesty by the Lords spi<g ref="char:EOLhyphen"/>ritual and temporal, and Commons in Parliament Assembled, concerning divers Rights and Liberties of the Subjects: with the Kings Majesties Royal An<g ref="char:EOLhyphen"/>swer thereunto in full Parliament.</head>
+            <opener>
+               <salute>To the Kings most Excellent Majesty.</salute>
+            </opener>
+            <p>HUmbly shew unto our sovereign Lord the King, the Lords spiritual and temporal, and Commons in Parliament assembled, That whereas it is declared and enacted by a Statute made in the time of the Reign of <hi>Edw.</hi> the first, commonly called,<note place="margin">34. Edw. 1.</note>
+               <hi>Statutum de Tallagio non concedendo,</hi> That no Tallage or aid shall be laid or levi<g ref="char:EOLhyphen"/>ed, by the King or his heirs in this Realm, without the good will and assent of the Archbishops, Bishops, Earls, Barons, Knights, Burgesses, and other Free-men of the Commonalty of this Realm. And by Authority of Par<g ref="char:EOLhyphen"/>liament, holden in the 25. year of the Reign of <hi>Edward</hi> the 3. it is Declared and Enacted,<note place="margin">25. Edw. 3.</note> that from thenceforth no person should be compelled to make any Loans to the King against his will, because such Loans were a<g ref="char:EOLhyphen"/>gainst reason, and the Franchise of the Land. And by other Laws of this Realm it is provided, that none should be charged by any charge or imposition, called a Bene<g ref="char:EOLhyphen"/>volence, nor by such like charge;<note place="margin">1. Ed. 3.6.</note> by which the Statutes before mentioned, and other the good Laws and Statutes of this Realm, your Subjects have inherited this freedom,<note place="margin">11. Rich. 2, 5.</note>
+               <pb n="20" facs="tcp:168676:12"/>That they should not be compelled to contribute to any Tax,<note place="margin">1. Rich. 3.2</note> Tallage, aid, or ther like charge not set by common consent in Parliament.</p>
+            <p>Yet nevertheless of late, divers Commissions, directed to sundry Commissioners in several Counties, with in<g ref="char:EOLhyphen"/>structions, have issued; by means whereof, your People have been in divers places assembled, and required to lend certain summes of Money unto your. Majesty; and many of them upon their refusal so to do, have had an Oath administred unto them, not warrantably by the Laws and Statutes of this Realm; and have been con<g ref="char:EOLhyphen"/>strained to become bound to make appearance, and give attendance before your Privy Council, and in other places; and others of them have been therefore impri<g ref="char:EOLhyphen"/>soned, confined, and sundry other waies molested and disquieted. And divers other charges have been laid and levied upon your People in several Counties, by Lord Lieutenants, Deputy Lieutenants, Commissions for Masters, Justices of Peace, and others by command or direction from your Majesty, or your Council, against the Laws and free Customs of the Realm.</p>
+            <p>And where also by the Statute called the Great Charter of the Liberties of <hi>England,</hi>
+               <note place="margin">9. H. 3.29.</note> It is Declared and Enacted, that no free man may be taken or imprisoned, or be disseized of his Free-hold, his Liberties or his free Customs; or be out-lawed or exiled, or in any manner destroyed, but by the lawful Inditement of his Peers, or by the Law of the Land.</p>
+            <p>And in the 28. year of <hi>Edward</hi> the 3. it was Decla<g ref="char:EOLhyphen"/>red and Enacted by Authority of Parliament,<note place="margin">28. Ed 3.3.</note> that no man,<note place="margin">27. Edw. 3.18 28. Ed. 3.9. 42. Ed. <gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 17. Rich. 2.6.</note> of what Estate or Condition soever, should be put out of his Lands or Tenements, nor taken, nor impri<g ref="char:EOLhyphen"/>soned, nor disherited, nor put to death, without being brought to answer by due process of Law. Neverthe<g ref="char:EOLhyphen"/>less against the tenour of the said Statutes, and other the good Laws and Statutes of the Realm to that end provi<g ref="char:EOLhyphen"/>ded, divers of your good Subjects have of late been im<g ref="char:EOLhyphen"/>prisoned
+<pb n="21" facs="tcp:168676:12"/>without any cause shewed: And when for their deliverance they were brought before your Justices, by your Majesties Writs of <hi>Habeas Corpus,</hi> there to un<g ref="char:EOLhyphen"/>dergo and receive as the Court should order, and their Keepers commanded to certifie the cause of their detai<g ref="char:EOLhyphen"/>ner; no cause was certified, but that they were detained by your Majesties special command, signified by the Lords of the Privy Council; and yet were returned back to several Prisons, without being charged with any thing to which they might make answer according to the Law.</p>
+            <p>And whereas of late great companies of Souldiers and Mariners have been disposed into divers Counties of the Realm, and the Inhabitants against their wills have been compelled to receive them into their houses, and there to suffer them to sojourn, against the Laws and Customs of this Realm, and to the great grievance and vexation of the People.</p>
+            <p>And whereas also by Authority of Parliament,<note place="margin">25. Ed. 3.9.</note> in the 25. year of the Reign of King <hi>Edward</hi> 3. it is Declared and Enacted, that no man should be forejudged of life or limb against the form of the Great Charter,<note place="margin">9. H. 3.29. 25. Ed. 3.4. 28. Ed. 3.3.</note> and the Law of the Land: and by the said Great Charter, and other the Laws and Statutes of this your Realm, no man ought to be adjudged to death, but by the Laws esta<g ref="char:EOLhyphen"/>blished in this your Realm, either by the Customs of the same Realm, or by Acts of Parliament.</p>
+            <p>And whereas no offender, of what kinde soever, is ex<g ref="char:EOLhyphen"/>empted from the proceedings to be used, and punishment to be inflicted by the Laws and Statutes of this your Realm; Nevertheless divers Commissions of late under your Majesties Great Seal have issued forth, by which certain persons have been assigned and appointed Com<g ref="char:EOLhyphen"/>missioners with power and authority to proceed within the Land, according to the justice of Martial Law, a<g ref="char:EOLhyphen"/>gainst such Souldiers and Ma inets, or other dissolute persons joining with them, as should commit any mur<g ref="char:EOLhyphen"/>ther, robbery, felony, mutiny, or other outrage or mis<g ref="char:EOLhyphen"/>demeanor
+<pb n="22" facs="tcp:168676:13"/>whatsoever; and by such summary course and order as is agreeable to Martial Law, and is used in Ar<g ref="char:EOLhyphen"/>mies in <gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>es of War, to proceed to the trial and condemnation of such offenders, and them to cause to be executed and put to death according to the Law Martial.</p>
+            <p>By pretext whereof, some of your Majesties Subjects have been by some of the said Commissions put to death; when and where, if by the Laws and Statutes of the Land they had deserved death, by the same Laws and Statures also they might, and by no other ought to have been judged and executed.</p>
+            <p>And also sundry and grievous offendors, by colour thereof claiming an exemption, have escaped the punish<g ref="char:EOLhyphen"/>ment due to them by the Laws and Statutes of this your Realm; by reason that divers of your Officers and Ministers of justice, have unjustly refused or forborn to proceed against such offendors according to the same Laws and Statutes, upon pretence that the said offen<g ref="char:EOLhyphen"/>dors were punishable only by Martial Law, and by Au<g ref="char:EOLhyphen"/>thority of such Commissions as aforesaid. Which Com<g ref="char:EOLhyphen"/>missions, and all other of like natures, are wholly and di<g ref="char:EOLhyphen"/>rectly contrary to the said Laws and Statutes of this your Realm.</p>
+            <p>They do therefore humbly pray your most Excellent Majesty,<note place="margin">Petition.</note> that no man hereafter be compelled to make or yield any gift, loan, benevolence, tax or such like charge, without common consent, by Act of Parliament. And that none be compelled to make answer, or take such Oath; or to give attendance, or be confined, or otherwise molested or disquieted concerning the same, or for refusal thereof. And that no free-man in any such manner as is before mentioned, be imprisoned or detained. And that your Majesty would be pleased to remove the said Souldiers or Mariners, and that your People may not be so burthened in time to come.</p>
+            <p>And that the aforesaid Commissions for proceeding
+<pb n="22" facs="tcp:168676:13"/>by Martial Law, may be revoked and anulled. And that hereafter no Commissions of the like nature may issue forth, to any person or persons whatsoever, to be executed as aforesaid, Lest by colour of them, any of your Majesties Subjects be destroyed, or put to death contrary to the Laws and Franchises of the Land.</p>
+            <p>All which they most humbly pray of your most Excel<g ref="char:EOLhyphen"/>lent Majesty, as their Rights and Liberties according to the Statutes of this Realm. And that your Majesty would also vouchsafe to declare, that the awards, doings and proceedings, to the prejudice of your People, in any of the premises, shall not be drawn hereafter into consequence and example. And that your Majesty would also be graciously pleased for the Comfort and safety of your People, to declare your Royal will and pleasure, that in the things aforesaid all your Officers and Ministers shall serve you according to the Laws and Statures of this Realm, as they tender the ho<g ref="char:EOLhyphen"/>nour of your Majesty, and the <hi>prosperity of this Kingdom.</hi>
+            </p>
+         </div>
+         <div type="commentary">
+            <p>Which Petition being read. <hi>June</hi> 2. 1628. the Kings Answer was thus delivered unto it.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="reply_to_petition">
+                        <p>THe King willeth that right be done, according to the Laws &amp; Customs of the Realm: and that the Statutes be put in due execution, that his Subjects may have no cause to complain of any wrongs or oppressions, contrary to their just Rights and Liberties; to the preservation whereof he holds himself in Conscience as well obliged, as of his Prerogative.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>But this answer not giving satisfaction, the King was again Petitioned unto, that he would give a full and satisfactory Answer to their Petition in full Parlia<g ref="char:EOLhyphen"/>ment: whereupon the King in person, upon the 7. of <hi>June,</hi> made this second Answer.</p>
+            <pb n="24" facs="tcp:168676:14"/>
+            <p>
+               <hi>Solt droit fait come est desire,</hi> Let right be done as it is desired.</p>
+            <p>Which being done, the King said thus:</p>
+            <p>This I am sure is fully, yet no more then I granted you in my first Answer; for the meaning of that was to confirm all your Liberties; knowing according to your own Protestations, that you neither mean to, nor can hurt my Prerogatives: And I assure you my Maxime is, That the Peoples Liberties strengthens the Kings Preroga<g ref="char:EOLhyphen"/>tive, and the Kings Prerogative is to defend the Peoples Liberties.</p>
+         </div>
+         <div type="oath">
+            <head>The Oath of Supremacy.</head>
+            <p>I <hi>A. B.</hi> do utterly testifie and declare in my Conscience, that the <hi>K.</hi> or <hi>Q.</hi> Highness is the only Supreme Go<g ref="char:EOLhyphen"/>vernour of this Realm, and of all other his Highness Do<g ref="char:EOLhyphen"/>minions, and Countries, as well in all spiritual things or causes, as temporal; and that no Foraign Prince, Person, Prelate, State or Potentate, hath or ought to have any Jurisdiction, Power, Superiority, Pre-eminency or Au<g ref="char:EOLhyphen"/>thority, Ecclesiastical or Spiritual, within this Realm: and therefore I do utterly renounce and forsake all fo<g ref="char:EOLhyphen"/>raign jurisdictions, powers, superiorities and authori<g ref="char:EOLhyphen"/>ties; and do promise, that from henceforth I shall bear faith and true allegiance to the Kings Highness, his Heirs and lawful Successors; and to my power shall assist and defend all jurisdictions, priviledges, pre-eminencies and authorities, granted or belonging to the Kings High<g ref="char:EOLhyphen"/>ness, his Heirs and Successors, or united and annexed to
+<pb n="25" facs="tcp:168676:14"/>the Imperial Crown of this Realm. So help me God, and by the Contents of this Book.</p>
+         </div>
+         <div type="oath">
+            <head>The Oath of Allegiance.</head>
+            <p>I <hi>A. B.</hi> do truly and sincerely acknowledge, profess testifie and declare, in my Conscience before God and the World, That our Soveraign Lord <hi>K. C.</hi> is lawful and rightful King of this Realm, and of all other his Maje<g ref="char:EOLhyphen"/>sties Dominions and Countries; And that neither the Pope himself, nor by any authority of the Church or Sea of <hi>Rome,</hi> or by any other means, with any other, hath any power or authority to depose the King, or to dispose any of his Majesties Kingdoms or Domini<g ref="char:EOLhyphen"/>ons, or to authorize any Foraign Prince to invade or annoy him or his Countries, or give licence or leave to any of them to bear arms, raise tumults, or to offer any violence or hurt to his Majesties Royal Person, State or Government, or to any of his Majesties Subjects, with<g ref="char:EOLhyphen"/>in his Majesties Dominions.</p>
+            <p>Also I do swear from my heart, that notwithstanding any declaration, or sentence of excommunication or de<g ref="char:EOLhyphen"/>privation made or granted, or to be made or granted by the Pope or his successors, or by any Authority derived or pretended to be derived from him or his Sea against the said King, his Heirs or Successors, or any absolution of the said Subjects from their obedience: I will bear faith and true allegiance to his Majesty his Heirs and Successors, and him and them will defend, to the utter<g ref="char:EOLhyphen"/>most of my power, against all conspiracies and attempts whatsoever, which shall be made against his or their per<g ref="char:EOLhyphen"/>sons, their Crown and Dignity, by reason or colour of any such sentence or declaration, or otherwise; and will do my best endeavour, to disclose or make known unto
+<pb n="26" facs="tcp:168676:15"/>his Majesty, his Heirs and Successors, all treasons and trayterous conspiracies, which I shall know or hear of to be against him or any of them.</p>
+            <p>And I do farther swear, that I do from my heart abhor, detest, and abjure, as impious and heretical, this damna<g ref="char:EOLhyphen"/>ble doctrine and position, That Princes that be excom<g ref="char:EOLhyphen"/>municated or deprived by the Pope, maybe deposed or murthered by their Subjects, or any other whatsoever.</p>
+            <p>And I do believe, and in Conscience am resolved, that neither Pope nor any person whatsoever, hath power to absolve me of this Oath, or any part thereof; which I acknowledge by good and full Authority to be lawfully administred unto me; and do renounce all pardons and dispensations to the contrary. And all those things I do plainly and sincerely acknowledge and swear, according to these expresse words by me spoken, and according to the plain and common sence and understanding of the same words, without any equivocation or mental evasi<g ref="char:EOLhyphen"/>on, or secret reservation whatsoever. And I do make this Recognition and Engagement, heartily, willingly and truly, upon the true faith of a Christian. So help me God.</p>
+         </div>
+         <div type="oath">
+            <head>The Protestation. <hi>1641.</hi>
+            </head>
+            <p>I <hi>A. B.</hi> do in the presence of Almighty God, promise, vow and protest, to maintain and defend, as far as lawfully I may, with my life, power and estate, the true reformed and Protestant Religion, expressed in the Doctrine of the Church of <hi>England,</hi> against all Popery and Popish Innovations, within this Realm, contrary to the same Doctrine; according to the duty of my allegi<g ref="char:EOLhyphen"/>ance, his Majesties Royal person, honour and estate;
+<pb n="27" facs="tcp:168676:15"/>as also the power and priviledges of Parliament; the lawful Rights and Liberties of the Subject; and every person that maketh this Protestation, in whatsoever he shall do in the lawful performance of the same: And to my power, and as far as lawfully I may, I will oppose and by all good waies and means, endeavour to ring to con<g ref="char:EOLhyphen"/>digne punishment all such as shall either by force, pra<g ref="char:EOLhyphen"/>ctice, counsels, plots, conspiracies, or otherwise do any thing to the contrary of any thing in this present Prote<g ref="char:EOLhyphen"/>station contained. And further, that I shall in all just and humble ways endeavour to preserve the union and peace between the three Kingdoms of <hi>England, Scot<g ref="char:EOLhyphen"/>land</hi> and <hi>Ireland;</hi> and neither for hope, fear or other re<g ref="char:EOLhyphen"/>spect, shall <hi>relinquish this Promise, Vow and Protestation.</hi>
+            </p>
+            <div type="vow">
+               <head>The Vow and Covenant appointed by the Lords and Commons assembled in Parl<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ament to be taken by e<g ref="char:EOLhyphen"/>very man, <hi>&amp;c.</hi>
+               </head>
+               <p>I <hi>A. B.</hi> in humility and reverence to the Divine Majesty, declare my hearty sorrow for my own sins, and the sins of this Nation, which have deserved the calamities and judgements that now lie upon it, and my true intention is, by Gods grace to endeavour the a<g ref="char:EOLhyphen"/>mendment of mine own ways; and that I do abhor and detest the said wicked and treacherous design lately disco<g ref="char:EOLhyphen"/>vered, <hi>viz.</hi> of divers persons to joyn themselves with the Armies raised by the King, and to destroy the Forces rai<g ref="char:EOLhyphen"/>sed by the Lords and Commons in Parliament, to surprize the City of <hi>London</hi> and <hi>Westminster, &amp;c.</hi> and by arms to force the Parliament; and that I never gave, nor will give my assent to the execution thereof, but will accor<g ref="char:EOLhyphen"/>ding to my power and vocation oppose and resist the same, and all other of the like nature: and in case any o<g ref="char:EOLhyphen"/>ther
+<pb n="28" facs="tcp:168676:16"/>like design shall hereafter come to my knowledge, I will make such timely discovery, as I shall conceive may best conduce to the preventing thereof: And where<g ref="char:EOLhyphen"/>as I do in my Conscience believe, that the Forces raised by the two Houses of Parliament are raised and continu<g ref="char:EOLhyphen"/>ed for their just defence, and for the defence of the true Protestant Religion, and Liberties of the Subject, against the Forces raised by the King: I do here in the presence of Almighty God declare, Vow and Covenant, That I will, according to my power and vocation, assist the Forces raised and continued by both Houses of Parlia<g ref="char:EOLhyphen"/>ment, against the Forces raised by the King, without their consent; and will likewise assist all other persons that shall take this Oath, in what they shall do in pur<g ref="char:EOLhyphen"/>suance thereof. And will not directly or indirectly adhere unto, nor shall willingly assist the Forces raised by the King without the consent of both Houses of Parli<g ref="char:EOLhyphen"/>ament. And this Vow and Covenant I make in the pre<g ref="char:EOLhyphen"/>sence of Almighty God, the searcher of all hearts, with a true intention to perform the same, as I shall answer at the great day, when the secrets of all hearts shall be dis<g ref="char:EOLhyphen"/>closed.</p>
+               <p>What consistency there is between this and the Oath of Allegiance and Supremacy, let all judge: but the De<g ref="char:EOLhyphen"/>clarations upon it all pretend security to the King, and a perfect allegiance; which they that so understand them<g ref="char:EOLhyphen"/>selves, would 60 well signally to give the World to un<g ref="char:EOLhyphen"/>derstand, that such were their conceptions.</p>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
